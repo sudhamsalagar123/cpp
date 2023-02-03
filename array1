@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int arr[]={1,2,3,4,5};
+clrscr();
+cout<<"the entered elements"<<arr[0]<<endl<<arr[1]<<endl<<arr[2]<<endl<<arr[3]<<endl<<arr[4];
+getch();
+}
